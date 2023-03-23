@@ -1,4 +1,4 @@
-Final Project: Discord-Clone
+Final Project: Discord_Clone
 This project was bootstrapped with Create React App, using the Redux and Redux Toolkit template.
 
 In the root of a discord-clone-frontend directory, you can run:
